@@ -1,0 +1,7 @@
+pic_dataset*/
+pic_out*/
+*.jpg
+*.csv
+.ipynb_checkpoints/
+.vscode/
+
