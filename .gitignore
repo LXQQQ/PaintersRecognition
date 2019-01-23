@@ -1,6 +1,7 @@
 pic_dataset*/
 pic_out*/
-*.jpg
+elephant.jpg
+plane.jpg
 *.csv
 .ipynb_checkpoints/
 .vscode/
